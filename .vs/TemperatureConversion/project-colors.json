@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77d03d35-48fe-427e-a962-ba70295f5076": {
+      "ProjectGuid": "77d03d35-48fe-427e-a962-ba70295f5076",
+      "DisplayName": "TemperatureConversion",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

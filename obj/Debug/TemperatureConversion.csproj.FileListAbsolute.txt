@@ -1,0 +1,11 @@
+D:\CsPractice\TemperatureConversion\bin\Debug\TemperatureConversion.exe.config
+D:\CsPractice\TemperatureConversion\bin\Debug\TemperatureConversion.exe
+D:\CsPractice\TemperatureConversion\bin\Debug\TemperatureConversion.pdb
+D:\CsPractice\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.AssemblyReference.cache
+D:\CsPractice\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.SuggestedBindingRedirects.cache
+D:\CsPractice\TemperatureConversion\obj\Debug\TemperatureConversion.Form1.resources
+D:\CsPractice\TemperatureConversion\obj\Debug\TemperatureConversion.Properties.Resources.resources
+D:\CsPractice\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.GenerateResource.cache
+D:\CsPractice\TemperatureConversion\obj\Debug\TemperatureConversion.csproj.CoreCompileInputs.cache
+D:\CsPractice\TemperatureConversion\obj\Debug\TemperatureConversion.exe
+D:\CsPractice\TemperatureConversion\obj\Debug\TemperatureConversion.pdb
